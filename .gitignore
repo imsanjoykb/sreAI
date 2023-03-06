@@ -1,0 +1,8 @@
+.dbt
+.json
+.pq
+/postgre
+/sql
+.sqlite
+.odt
+/mainfile
